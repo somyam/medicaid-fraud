@@ -20,5 +20,3 @@ materially affect fraud detection output. Investigation into these individual pr
 for validation of concerns. 
 Keywords: Medicaid fraud, T-MSIS, peer group analysis, autoencoder, anomaly detection, 
 claims analytics, program integrity 
-1. Introduction and Research Background 
-1.1 The Scale and Structure of Medicaid Fraud 
